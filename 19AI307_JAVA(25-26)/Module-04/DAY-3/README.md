@@ -64,7 +64,7 @@ RegisterNumber:  212222230071
 
 ## SOURCE CODE:
 
-```
+```java
 import java.util.*;
 
 class Book {
@@ -126,4 +126,5 @@ public class Main {
 ## RESULT:
 
 The program successfully demonstrates Composition by creating Book objects only inside the Library class.
+
 
